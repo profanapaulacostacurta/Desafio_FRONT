@@ -1,5 +1,5 @@
 import React from 'react';
-import { AppHeaderStyle, AppStyle } from './estilos/AppStyle';
+import { AppHeaderStyle, AppStyle } from './estilos/app-styles';
 import {QuadroView} from './telas/quadro/quadro-view';
 import { PopupView } from './telas/componentes/Popup/popup-view';
 
